@@ -24,3 +24,6 @@ switch:
     pulse_length: 1000ms
     optimistic: False
 ```
+
+### Acknowledges
+It should be noted that I based this code greatly on [OpenBeken](https://github.com/openshwprojects/OpenBK7231T_App)'s "bridge driver".

@@ -1,3 +1,7 @@
+# OBSOLETE
+Esphome now supports (since version 2024.12.0) the [H-bridge switch component](https://esphome.io/components/switch/hbridge), which does exactly the same job and does it better. I recommend using it instead of my mrbridge.
+This external component will no longer be supported, but I will keep it here for a while just in case someone still wants to use an older version of esphome.
+
 ## mr_bridge
 This is a simple Motor/Relay pulse bridge that drives specified GPIO outputs for a specified period of time.
 Such implementation is actually used for controlling latching relays in Tuya switches. I also used it succesfully in Tuya valve.
